@@ -1,6 +1,13 @@
 ## Hi there 👋
  My name is Brian Beck.
- I am currently working on learning computer programing.
+ - 🔭 I’m currently working on a harvard comper programing course.
+- 🌱 I’m currently learning programing.
+- 👯 I’m looking to collaborate on video game projects
+- 🤔 I’m looking for help with anything I can
+- 💬 Ask me about life
+- 📫 How to reach me: dont
+  
+- ⚡ Fun fact: I play guitar 
 <!--
 **Bbeck182/Bbeck182** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
