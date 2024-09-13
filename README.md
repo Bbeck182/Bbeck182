@@ -6,8 +6,7 @@
 - 🤔 I’m looking for help with anything I can
 - 💬 Ask me about life
 - 📫 How to reach me: dont
-  
-- ⚡ Fun fact: I play guitar 
+  - ⚡ Fun fact: I play guitar 
 <!--
 **Bbeck182/Bbeck182** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
